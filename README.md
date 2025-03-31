@@ -1,2 +1,5 @@
-# nyc_infrastructure_tracker
-A public data project analyzing NYC infrastructure systems using Javascript and real NYC datasets. 
+# NYC Infrastructure Tracker
+
+A web-based dashboard that visualizes NYC public infrastructure trends using public datasets. Built with Javascript, inspired by my earlier Web Development project about soccer analytics. 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
